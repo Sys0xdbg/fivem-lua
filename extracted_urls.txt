@@ -1,0 +1,473 @@
+Total unique URLs: 153
+Found in 130 files
+============================================================
+
+--- DISCORD (92 unique) ---
+
+  https://cdn.discordapp.com/attachments/516062969172590602/774665797305237504/VisualsIconc.png
+    Found in: absolute_v2.lua
+
+  https://cdn.discordapp.com/attachments/516062969172590602/774666658274607124/Sin_titulo-1.png
+    Found in: absolute_v2.lua
+
+  https://cdn.discordapp.com/attachments/652880744485748786/780877353566994489/craftlaboratory.png
+    Found in: absolute_v2.lua
+
+  https://cdn.discordapp.com/attachments/658880253401366528/775894859390255164/teleport.png
+    Found in: absolute_v2.lua
+
+  https://cdn.discordapp.com/attachments/773330111155929108/783344224073809970/Render.gif
+    Found in: absolute_v2.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244586301751307/3.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244587790467082/4.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244589544210493/5.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244591532310608/6.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244593582669834/7.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244595634470922/8.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244597777891338/9.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244599718281246/10.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244601728663582/11.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244603997257758/12.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244628458963034/15.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244635920629760/16.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244643167469588/17.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244651132846100/18.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244663715102740/19.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244679515439124/20.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244689544675338/21.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244695198597120/22.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244701347577856/23.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244707407822848/24.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244718677786655/25.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244943030583296/26.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244946260721674/27.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244955803680798/28.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244960755974174/29.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244967936753684/1.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864244975440363521/2.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864246339306782720/14.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/860929360092725269/864246342380945448/13.png
+    Found in: fivesense.lua
+
+  https://cdn.discordapp.com/attachments/870329002806607967/1058472978133811210/Peter_Griffin.png
+    Found in: crown_menu.lua
+
+  https://cdn.discordapp.com/avatars/775826450988400700/aa48e42643df7ca267f424f0165b93af.png?size=128
+    Found in: lumia.lua
+
+  https://discord.gg/2JUFdD5Va3
+    Found in: crown_menu.lua
+
+  https://discord.gg/3vr4aVs
+    Found in: ham_deob.lua
+
+  https://discord.gg/4bsdCj3
+    Found in: falcon_v1.lua
+
+  https://discord.gg/5BAeqT2
+    Found in: xa.lua
+
+  https://discord.gg/5HUxbTh
+    Found in: purple_lum.lua
+
+  https://discord.gg/6HY34es
+    Found in: crusader.lua
+
+  https://discord.gg/7BZAfTY
+    Found in: tito_modz.lua
+
+  https://discord.gg/7vVXXdk
+    Found in: fx_v2.lua
+
+  https://discord.gg/8nSCR6u
+    Found in: brutan_premium_v1.lua, brutan_v4.lua, brutan_v5.lua
+
+  https://discord.gg/9ZxpCtb
+    Found in: oblivius_v2.lua
+
+  https://discord.gg/ARQrmX5
+    Found in: tiago.lua, tiago_updated.lua, tiago_v3.6.lua, tiago_v3.7.lua
+
+  https://discord.gg/Apq4akF
+    Found in: tiago_v3.7.lua
+
+  https://discord.gg/BNvx3TN
+    Found in: bee.lua
+
+  https://discord.gg/BNvx3TN>:D
+    Found in: bee.lua
+
+  https://discord.gg/DseBd8
+    Found in: tiago.lua
+
+  https://discord.gg/FtMs4eA
+    Found in: shadowx.lua
+
+  https://discord.gg/GbsQxN
+    Found in: malossi_menu_v3.lua
+
+  https://discord.gg/Ggs6nfe
+    Found in: malossi_menu_v3.lua
+
+  https://discord.gg/K4mYqG
+    Found in: bitizy_v2.0.lua, tiago.lua
+
+  https://discord.gg/QMmrgrr
+    Found in: ez.lua
+
+  https://discord.gg/QyRvc4d
+    Found in: koguszek.lua
+
+  https://discord.gg/U3tGSBE
+    Found in: bitizy_v2.0.lua, tiago_lilpump.lua
+
+  https://discord.gg/UC9HrnY
+    Found in: koguszek.lua
+
+  https://discord.gg/ZQNyRcgcp3
+    Found in: mr_menu_v2.0.lua, proxy_v2.2.lua
+
+  https://discord.gg/Zm9jg9q
+    Found in: creek_menu.lua
+
+  https://discord.gg/Zmp8CgZ
+    Found in: exia_v2.lua
+
+  https://discord.gg/a4n3SD2
+    Found in: rena_menu.lua
+
+  https://discord.gg/aQc2e5b
+    Found in: melon.lua
+
+  https://discord.gg/dHtrysD
+    Found in: exia_v1.lua
+
+  https://discord.gg/eUrxG46
+    Found in: oblivius_v2.lua
+
+  https://discord.gg/eb8sget
+    Found in: falcon_v4.lua
+
+  https://discord.gg/hkZgrv3
+    Found in: derp.lua
+
+  https://discord.gg/kgEh8mb
+    Found in: lex.lua
+
+  https://discord.gg/pPwN9ZA
+    Found in: flex_v1.lua, skaza.lua
+
+  https://discord.gg/pQwzbdf
+    Found in: luminous_v2.lua, purple_lum.lua
+
+  https://discord.gg/qPF9SsS
+    Found in: falcon_v2.lua
+
+  https://discord.gg/qQWKBEV
+    Found in: falcon_v4.lua
+
+  https://discord.gg/qyVE4WW
+    Found in: malossi_menu_v2.lua
+
+  https://discord.gg/qyVE4WWn
+    Found in: malossi_menu_v2.lua
+
+  https://discord.gg/uDTmjF7
+    Found in: shadowx.lua
+
+  https://discord.gg/uDTmjF7.
+    Found in: shadowx.lua
+
+  https://discord.gg/utH2qph
+    Found in: red_menu.lua
+
+  https://discord.gg/y7xyNeG
+    Found in: falcon_v3.lua
+
+  https://discord.gg/z59nQbu
+    Found in: ciao.lua
+
+  https://discord.io/COMMUNITYV9
+    Found in: xxx.lua
+
+  https://discord.io/FendinX
+    Found in: fendinx.lua
+
+  https://discord.io/FendinX~r~
+    Found in: fendinx.lua
+
+  https://discord.io/MalossiLuaMenus
+    Found in: malossi_menu_v3.lua
+
+  https://discord.malossirelease.nl
+    Found in: malossi_menu_v5.lua, malossi_menu_v7.lua
+
+  https://discordapp.com/developers/applications/
+    Found in: lynx_mod_menu_v11.lua
+
+  https://discordapp.com/developers/applications/APPID/rich-presence/assets
+    Found in: lynx_mod_menu_v11.lua
+
+  https://discordapp.com/invite/3PaCPw7~n~~r~Brutan#7799
+    Found in: brutan_v8.lua, brutan_v8_alt.lua
+
+  https://discordapp.com/invite/tCEajtn
+    Found in: biznes.lua, brutan_v9.1_alt.lua, brutan_v9.3.lua, brutan_v9.3_alt.lua, brutan_v9.4.lua, brutan_v9.4_alt.lua, tumx.lua
+
+  https://github.com/Zeemahh/discord-rp/blob/master/discord-rp/client.lua
+    Found in: lynx_mod_menu_v11.lua
+
+  https://media.discordapp.net/attachments/736330845362716692/738928019397410816/312.png
+    Found in: absolute_v1.lua
+
+  https://media.discordapp.net/attachments/739984060243378322/752954398929584148/giphy.gif?size=128
+    Found in: absolute_v2.lua
+
+--- PASTEBIN (2 unique) ---
+
+  https://pastebin.com/0neZdsZ5
+    Found in: absolute_alpha_v1.lua, brutan_boyz.lua, brutan_v7.lua, brutan_v7_alt.lua, brutan_v9.3.lua, brutan_v9.3_alt.lua, brutan_v9.4.lua, brutan_v9.4_alt.lua, brutan_v9.lua, brutan_v9_alt.lua, crusader.lua, derp.lua, divine_v1.0.lua, dopamine.lua, edvis_menu.lua, eulen.lua, exia_v2.lua, exia_v3.lua, finn.lua, hydro.lua, hydro_menu.lua, hydro_menu_v2.lua, jd_v2.lua, lux.lua, lynx_v5.2.lua, malossi_menu_v2.lua, malossi_menu_v3.lua, malossi_menu_v4.lua, melon.lua, osquerna.lua, outcasts.lua, polstar.lua, qwe.lua, red_menu.lua, rena_alt.lua, root_menu_def.lua, ruby.lua, siano_xaries.lua, tiago_lilpump.lua, tumx.lua, v99.lua, xa.lua, xaries_funny_menu_v3.lua, xaries_gang_v2.lua
+
+  https://pastebin.com/Kj9t38KF
+    Found in: falcon_v3.lua, malossi_menu_v6.lua, skid_menu.lua, skid_menu_latest.lua
+
+--- GITHUB (8 unique) ---
+
+  https://gist.github.com/samyh89/32a780abcd1eea05ab32a61985857486
+    Found in: brutan_v9.2.lua, brutan_v9.2_alt.lua, falcon_v3.lua, malossi_menu_v6.lua, sef.lua, skid_menu.lua, skid_menu_latest.lua
+
+  https://github.com/ImagicTheCat/vRP
+    Found in: dopamine.lua
+
+  https://github.com/ImagicTheCat/vRP/tree/master/vrp
+    Found in: brutan_v9.2.lua, brutan_v9.2_alt.lua, malossi_menu_v6.lua, sef.lua, skid_menu.lua, skid_menu_latest.lua
+
+  https://github.com/MAFINS/MenyooSP
+    Found in: brutan_v9.2.lua, brutan_v9.2_alt.lua, falcon_v3.lua, malossi_menu_v6.lua, sef.lua, skid_menu.lua, skid_menu_latest.lua
+
+  https://github.com/esc0rtd3w/illicit-sprx/blob/master/main/illicit/textures.h
+    Found in: brutan_v9.2.lua, brutan_v9.2_alt.lua, ciao.lua, creek_menu.lua, emperior_v1.5.lua, falcon_v1.lua, falcon_v3.lua, falcon_v4.lua, malossi_menu_v6.lua, mr_menu_v2.0.lua, omwj.lua, sef.lua, skid_menu.lua, skid_menu_latest.lua, tiago_v4.1.lua, tiago_v4.2.lua
+
+  https://github.com/iTexZoz/NativeUILua-Reloaded/wiki
+    Found in: badwolf_v1.lua, hoax_v2.lua, tiago_hoax.lua
+
+  https://github.com/warxander
+    Found in: brutan_v9.2.lua, brutan_v9.2_alt.lua, malossi_menu_v6.lua, sef.lua, skid_menu.lua, skid_menu_latest.lua
+
+  https://github.com/xander1998/k9/blob/master/client.lua
+    Found in: absolute_alpha_v1.lua
+
+--- IMGUR (13 unique) ---
+
+  https://i.imgur.com/1WA5IiO.png
+    Found in: absolute_v2.lua
+
+  https://i.imgur.com/7r0XHxV.png
+    Found in: absolute_v2.lua
+
+  https://i.imgur.com/GmpQc7C.png
+    Found in: divine_v1.0.lua, lux.lua
+
+  https://i.imgur.com/Hvyx6cE.png
+    Found in: ciao.lua, creek_menu.lua, falcon_v1.lua, falcon_v3.lua, falcon_v4.lua, malossi_menu_v6.lua, mr_menu_v2.0.lua, skid_menu.lua, skid_menu_latest.lua
+
+  https://i.imgur.com/J9ouwZK.png
+    Found in: absolute_v2.lua
+
+  https://i.imgur.com/OF3sRIc.png
+    Found in: absolute_v2.lua
+
+  https://i.imgur.com/RaFQ0th.png
+    Found in: divine_v1.0.lua, lux.lua
+
+  https://i.imgur.com/SmUsZY3.png
+    Found in: lumia.lua
+
+  https://i.imgur.com/SyQ6O6F.png
+    Found in: absolute_eulen.lua
+
+  https://i.imgur.com/dL5qnPn.png?1
+    Found in: divine_v1.0.lua, lux.lua
+
+  https://i.imgur.com/e5nowXb.png
+    Found in: lumia.lua
+
+  https://i.imgur.com/tl77ZyC.png
+    Found in: divine_v1.0.lua, lux.lua
+
+  https://i.imgur.com/z90seMW.png
+    Found in: absolute_v2.lua
+
+--- OTHER (38 unique) ---
+
+  http://cms.stream.publicradio.org/cms.mp3
+    Found in: ciao.lua, creek_menu.lua, emperior_v1.5.lua, falcon_v1.lua, falcon_v3.lua, falcon_v4.lua, malossi_menu_v6.lua, mr_menu_v2.0.lua, omwj.lua, skid_menu.lua, skid_menu_latest.lua, tiago_v4.1.lua, tiago_v4.2.lua
+
+  http://gtaxscripting.blogspot.com/2016/04/gta-v-peds-component-and-props.html
+    Found in: ciao.lua, creek_menu.lua, falcon_v1.lua, falcon_v3.lua, falcon_v4.lua, malossi_menu_v6.lua, mr_menu_v2.0.lua, skid_menu.lua, skid_menu_latest.lua
+
+  https://anonfile.com/B2Y3B2t2oe/lux_v1.0.2_lua
+    Found in: dopamine_old.lua
+
+  https://asriel.dev/fm/blacklisted.gif
+    Found in: fallout.lua
+
+  https://asriel.dev/fm/watermark.gif
+    Found in: fallout.lua, fallout_menu.lua, tiago_bypass.lua
+
+  https://brutan.wixsite.com/fivem/fivem
+    Found in: brutan_official.lua, brutan_v1.lua, brutan_v2.lua, brutan_v7.1_alt.lua
+
+  https://cdn.rage.mp/public/odb/index.html
+    Found in: brutan_v9.2.lua, brutan_v9.2_alt.lua, falcon_v3.lua, malossi_menu_v6.lua, sef.lua, skid_menu.lua, skid_menu_latest.lua
+
+  https://dc.xaries.pl
+    Found in: ham.lua, ham_x_lynx.lua, menus.lua, polstar.lua, ruby.lua, xaries_funny_menu_v3.lua, xaries_gang_v2.lua, xaries_lynx_v10_v0.2.lua
+
+  https://docs.fivem.net/docs/game-references/controls/
+    Found in: hydro.lua, hydro_menu.lua, hydro_menu_v2.lua
+
+  https://docs.fivem.net/game-references/controls/
+    Found in: brutan_v9.2.lua, brutan_v9.2_alt.lua, falcon_v3.lua, malossi_menu_v6.lua, sef.lua, skid_menu.lua, skid_menu_latest.lua
+
+  https://d~g~i~g~s~g~cord.io/COMMUNITYV9
+    Found in: xxx.lua
+
+  https://fm.asriel.dev/statistics.gif?identifier=
+    Found in: fallout.lua, fallout_menu.lua, tiago_bypass.lua
+
+  https://forum.fivem.net/t/release-scammers-script-collection-09-03-17/3313
+    Found in: falcon_v3.lua, malossi_menu_v6.lua, skid_menu.lua, skid_menu_latest.lua
+
+  https://hammafia.com
+    Found in: meme.lua
+
+  https://hammafia.com/
+    Found in: meme.lua
+
+  https://i.ibb.co/0GhPPL7/Hydro-New-Header.png
+    Found in: hydro.lua, hydro_menu.lua, hydro_menu_v2.lua
+
+  https://i.ibb.co/pRx2dqN/Hydro-White.png
+    Found in: hydro.lua, hydro_menu.lua, hydro_menu_v2.lua
+
+  https://ig.shaadow.pl
+    Found in: aries.lua
+
+  https://ig.xaries.pl
+    Found in: a.lua, polstar_v2.lua
+
+  https://instant-modz.com
+    Found in: brutan_lua.lua, brutan_v5_alt.lua
+
+  https://lua.xaries.pl
+    Found in: siano_xaries.lua
+
+  https://marekkraus.sk/gtav/blips/list.html
+    Found in: ciao.lua, creek_menu.lua, falcon_v1.lua, falcon_v3.lua, falcon_v4.lua, malossi_menu_v6.lua, mr_menu_v2.0.lua, skid_menu.lua, skid_menu_latest.lua
+
+  https://shop.malossirelease.nl
+    Found in: malossi_menu_v6.lua
+
+  https://tinyurl.com/uzsqjsp
+    Found in: omwj.lua, tiago_v4.2.lua
+
+  https://tinyurl.com/y6e2qu9e
+    Found in: creek_menu.lua, emperior_v1.5.lua, falcon_v1.lua, falcon_v3.lua, falcon_v4.lua, malossi_menu_v6.lua, mr_menu_v2.0.lua, skid_menu.lua, skid_menu_latest.lua, tiago_v4.1.lua
+
+  https://wiki.rage.mp/index.php?title=Peds
+    Found in: koguszek.lua
+
+  https://www.cjnews.com/wp-content/uploads/2012/01/gay-640x588.jpg
+    Found in: divine_v1.0.lua, dopamine_old.lua
+
+  https://www.gta5-mods.com/scripts/force-mod
+    Found in: brutan_v9.2.lua, brutan_v9.2_alt.lua, falcon_v3.lua, malossi_menu_v6.lua, sef.lua, skid_menu.lua, skid_menu_latest.lua
+
+  https://www.gta5-mods.com/scripts/shockwave
+    Found in: brutan_v9.2.lua, brutan_v9.2_alt.lua, falcon_v3.lua, malossi_menu_v6.lua, sef.lua, skid_menu.lua, skid_menu_latest.lua
+
+  https://www.hexcolortool.com/
+    Found in: brutan_v9.2.lua, brutan_v9.2_alt.lua, falcon_v3.lua, malossi_menu_v6.lua, sef.lua, skid_menu.lua, skid_menu_latest.lua
+
+  https://www.myinstants.com/media/sounds/multi-kill-mp3cut.mp3
+    Found in: fivesense.lua
+
+  https://www.myinstants.com/media/sounds/neverlose.mp3
+    Found in: fivesense.lua
+
+  https://xaries.pl
+    Found in: ham.lua, ham_x_lynx.lua, menus.lua, siano_xaries.lua, xaries_funny_menu_v3.lua, xaries_gang_v2.lua
+
+  https://~s~Malossi-Lua.nl~u~/
+    Found in: malossi_menu_v1.lua
+
+  https://~s~www.Eulenmenu.com~u~/
+    Found in: eulen_lynx.lua
+
+  https://~s~www.lynxmenu.com~b~/
+    Found in: lynx_v4_alt.lua
+
+  https://~s~www.lynxmenu.com~u~/
+    Found in: anti_melon.lua, hoax.lua, lynx.lua, lynx_r_v9.lua, lynx_v9.1.lua
+
+  https://~s~www.xAries
+    Found in: lynx_new.lua
+
