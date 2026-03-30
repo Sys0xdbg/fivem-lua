@@ -1,997 +1,857 @@
 [
   {
     "name": "Absolute Alpha v1",
-    "link": "https://sys0xdbg.github.io/fivem-lua/absolute_alpha_v1.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/absolute_alpha_v1.lua",
     "catagory": "Absolute"
   },
   {
     "name": "Absolute v1",
-    "link": "https://sys0xdbg.github.io/fivem-lua/absolute_v1.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/absolute_v1.lua",
     "catagory": "Absolute"
   },
   {
     "name": "Absolute v2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/absolute_v2.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/absolute_v2.lua",
     "catagory": "Absolute"
   },
   {
     "name": "Bitizy",
-    "link": "https://sys0xdbg.github.io/fivem-lua/bitizy.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/bitizy.lua",
     "catagory": "Bitizy"
   },
   {
     "name": "Bitizy v2.0",
-    "link": "https://sys0xdbg.github.io/fivem-lua/bitizy_v2.0.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/bitizy_v2.0.lua",
     "catagory": "Bitizy"
   },
   {
-    "name": "Brutan",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan Boyz",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_boyz.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan Lua",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_lua.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan Menu",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_menu.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan Official",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_official.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan Premium",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_premium.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan Premium v1",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_premium_v1.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan v1",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_v1.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan v2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_v2.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan v3",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_v3.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan v4",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_v4.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan v5",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_v5.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan v5 Alt",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_v5_alt.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan v6 Alt",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_v6_alt.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan v7",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_v7.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan v7 Alt",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_v7_alt.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan v7.1 Alt",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_v7.1_alt.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan v8",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_v8.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan v8 Alt",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_v8_alt.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan v9",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_v9.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan v9 Alt",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_v9_alt.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan v9.1 Alt",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_v9.1_alt.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan v9.2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_v9.2.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan v9.2 Alt",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_v9.2_alt.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan v9.3",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_v9.3.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan v9.3 Alt",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_v9.3_alt.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan v9.4",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_v9.4.lua",
-    "catagory": "Brutan"
-  },
-  {
-    "name": "Brutan v9.4 Alt",
-    "link": "https://sys0xdbg.github.io/fivem-lua/brutan_v9.4_alt.lua",
-    "catagory": "Brutan"
-  },
-  {
     "name": "Chocola Blanc",
-    "link": "https://sys0xdbg.github.io/fivem-lua/chocola_blanc.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/chocola_blanc.lua",
     "catagory": "Chocolat"
   },
   {
     "name": "Chocolat Noir",
-    "link": "https://sys0xdbg.github.io/fivem-lua/chocolat_noir.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/chocolat_noir.lua",
     "catagory": "Chocolat"
   },
   {
     "name": "Cobra Menu",
-    "link": "https://sys0xdbg.github.io/fivem-lua/cobra_menu.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/cobra_menu.lua",
     "catagory": "Cobra"
   },
   {
     "name": "Cobra Menu v2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/cobra_menu_v2.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/cobra_menu_v2.lua",
     "catagory": "Cobra"
   },
   {
     "name": "Creek Menu",
-    "link": "https://sys0xdbg.github.io/fivem-lua/creek_menu.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/creek_menu.lua",
     "catagory": "Creek"
   },
   {
     "name": "Crown Menu",
-    "link": "https://sys0xdbg.github.io/fivem-lua/crown_menu.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/crown_menu.lua",
     "catagory": "Crown"
   },
   {
     "name": "Crusader",
-    "link": "https://sys0xdbg.github.io/fivem-lua/crusader.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/crusader.lua",
     "catagory": "Crusader"
   },
   {
     "name": "Divine v1.0",
-    "link": "https://sys0xdbg.github.io/fivem-lua/divine_v1.0.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/divine_v1.0.lua",
     "catagory": "Divine"
   },
   {
     "name": "Dopamine",
-    "link": "https://sys0xdbg.github.io/fivem-lua/dopamine.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/dopamine.lua",
     "catagory": "Dopamine"
   },
   {
     "name": "Dopamine Old",
-    "link": "https://sys0xdbg.github.io/fivem-lua/dopamine_old.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/dopamine_old.lua",
     "catagory": "Dopamine"
   },
   {
     "name": "Absolute Eulen",
-    "link": "https://sys0xdbg.github.io/fivem-lua/absolute_eulen.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/absolute_eulen.lua",
     "catagory": "Eulen"
   },
   {
     "name": "Eulen",
-    "link": "https://sys0xdbg.github.io/fivem-lua/eulen.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/eulen.lua",
     "catagory": "Eulen"
   },
   {
     "name": "Eulen v1.0",
-    "link": "https://sys0xdbg.github.io/fivem-lua/eulen_v1.0.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/eulen_v1.0.lua",
     "catagory": "Eulen"
   },
   {
     "name": "Exia v1",
-    "link": "https://sys0xdbg.github.io/fivem-lua/exia_v1.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/exia_v1.lua",
     "catagory": "Exia"
   },
   {
     "name": "Exia v2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/exia_v2.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/exia_v2.lua",
     "catagory": "Exia"
   },
   {
     "name": "Exia v3",
-    "link": "https://sys0xdbg.github.io/fivem-lua/exia_v3.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/exia_v3.lua",
     "catagory": "Exia"
   },
   {
     "name": "Falcon v1",
-    "link": "https://sys0xdbg.github.io/fivem-lua/falcon_v1.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/falcon_v1.lua",
     "catagory": "Falcon"
   },
   {
     "name": "Falcon v2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/falcon_v2.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/falcon_v2.lua",
     "catagory": "Falcon"
   },
   {
     "name": "Falcon v3",
-    "link": "https://sys0xdbg.github.io/fivem-lua/falcon_v3.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/falcon_v3.lua",
     "catagory": "Falcon"
   },
   {
     "name": "Falcon v4",
-    "link": "https://sys0xdbg.github.io/fivem-lua/falcon_v4.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/falcon_v4.lua",
     "catagory": "Falcon"
   },
   {
     "name": "Fallout",
-    "link": "https://sys0xdbg.github.io/fivem-lua/fallout.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/fallout.lua",
     "catagory": "Fallout"
   },
   {
     "name": "Fallout Menu",
-    "link": "https://sys0xdbg.github.io/fivem-lua/fallout_menu.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/fallout_menu.lua",
     "catagory": "Fallout"
   },
   {
     "name": "Ham",
-    "link": "https://sys0xdbg.github.io/fivem-lua/ham.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/ham.lua",
     "catagory": "Ham"
   },
   {
     "name": "Ham Deob",
-    "link": "https://sys0xdbg.github.io/fivem-lua/ham_deob.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/ham_deob.lua",
     "catagory": "Ham"
   },
   {
     "name": "Hoax",
-    "link": "https://sys0xdbg.github.io/fivem-lua/hoax.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/hoax.lua",
     "catagory": "Hoax"
   },
   {
     "name": "Hoax v2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/hoax_v2.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/hoax_v2.lua",
     "catagory": "Hoax"
   },
   {
     "name": "Hydro",
-    "link": "https://sys0xdbg.github.io/fivem-lua/hydro.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/hydro.lua",
     "catagory": "Hydro"
   },
   {
     "name": "Hydro Menu",
-    "link": "https://sys0xdbg.github.io/fivem-lua/hydro_menu.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/hydro_menu.lua",
     "catagory": "Hydro"
   },
   {
     "name": "Hydro Menu v2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/hydro_menu_v2.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/hydro_menu_v2.lua",
     "catagory": "Hydro"
   },
   {
     "name": "Infinity",
-    "link": "https://sys0xdbg.github.io/fivem-lua/infinity.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/infinity.lua",
     "catagory": "Infinity"
   },
   {
     "name": "Lumia",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lumia.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lumia.lua",
     "catagory": "Lumia"
   },
   {
     "name": "Luminous v2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/luminous_v2.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/luminous_v2.lua",
     "catagory": "Luminous"
   },
   {
     "name": "Eulen Lynx",
-    "link": "https://sys0xdbg.github.io/fivem-lua/eulen_lynx.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/eulen_lynx.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Ham X Lynx",
-    "link": "https://sys0xdbg.github.io/fivem-lua/ham_x_lynx.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/ham_x_lynx.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx By Vjuton",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_by_vjuton.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_by_vjuton.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx Ez",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_ez.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_ez.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx Latest",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_latest.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_latest.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx Mod Menu v11",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_mod_menu_v11.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_mod_menu_v11.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx New",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_new.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_new.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx New Alt",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_new_alt.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_new_alt.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx Official v2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_official_v2.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_official_v2.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx Or v3",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_or_v3.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_or_v3.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx R v9",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_r_v9.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_r_v9.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx Revo",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_revo.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_revo.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx S",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_s.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_s.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx Sg",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_sg.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_sg.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx Spammer",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_spammer.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_spammer.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx Sucks",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_sucks.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_sucks.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx Vyorex",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_vyorex.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_vyorex.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx v10",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_v10.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_v10.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx v10.1",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_v10.1.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_v10.1.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx v10.1 Alt",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_v10.1_alt.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_v10.1_alt.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx v11.1",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_v11.1.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_v11.1.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx v3",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_v3.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_v3.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx v4",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_v4.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_v4.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx v4 Alt",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_v4_alt.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_v4_alt.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx v5.2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_v5.2.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_v5.2.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx v7",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_v7.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_v7.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx v7.1",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_v7.1.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_v7.1.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx v7.2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_v7.2.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_v7.2.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx v8",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_v8.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_v8.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx v8 Alt",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_v8_alt.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_v8_alt.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx v8 R4a",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_v8_r4a.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_v8_r4a.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx v8 R4a Fixed",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_v8_r4a_fixed.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_v8_r4a_fixed.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx v8 R4a Fixedx",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_v8_r4a_fixedx.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_v8_r4a_fixedx.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx v8.1",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_v8.1.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_v8.1.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx v8.4",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_v8.4.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_v8.4.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx v9 Fixed",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_v9_fixed.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_v9_fixed.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Lynx v9.1",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lynx_v9.1.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lynx_v9.1.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Xaries Lynx v10 v0.2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/xaries_lynx_v10_v0.2.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/xaries_lynx_v10_v0.2.lua",
     "catagory": "Lynx"
   },
   {
     "name": "Maestro O",
-    "link": "https://sys0xdbg.github.io/fivem-lua/maestro_o.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/maestro_o.lua",
     "catagory": "Maestro"
   },
   {
     "name": "Maestro v2.1",
-    "link": "https://sys0xdbg.github.io/fivem-lua/maestro_v2.1.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/maestro_v2.1.lua",
     "catagory": "Maestro"
   },
   {
     "name": "Maestro v2.2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/maestro_v2.2.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/maestro_v2.2.lua",
     "catagory": "Maestro"
   },
   {
     "name": "Maestro v2.3",
-    "link": "https://sys0xdbg.github.io/fivem-lua/maestro_v2.3.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/maestro_v2.3.lua",
     "catagory": "Maestro"
   },
   {
     "name": "Malossi Menu v1",
-    "link": "https://sys0xdbg.github.io/fivem-lua/malossi_menu_v1.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/malossi_menu_v1.lua",
     "catagory": "Malossi"
   },
   {
     "name": "Malossi Menu v2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/malossi_menu_v2.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/malossi_menu_v2.lua",
     "catagory": "Malossi"
   },
   {
     "name": "Malossi Menu v3",
-    "link": "https://sys0xdbg.github.io/fivem-lua/malossi_menu_v3.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/malossi_menu_v3.lua",
     "catagory": "Malossi"
   },
   {
     "name": "Malossi Menu v4",
-    "link": "https://sys0xdbg.github.io/fivem-lua/malossi_menu_v4.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/malossi_menu_v4.lua",
     "catagory": "Malossi"
   },
   {
     "name": "Malossi Menu v5",
-    "link": "https://sys0xdbg.github.io/fivem-lua/malossi_menu_v5.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/malossi_menu_v5.lua",
     "catagory": "Malossi"
   },
   {
     "name": "Malossi Menu v6",
-    "link": "https://sys0xdbg.github.io/fivem-lua/malossi_menu_v6.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/malossi_menu_v6.lua",
     "catagory": "Malossi"
   },
   {
     "name": "Malossi Menu v7",
-    "link": "https://sys0xdbg.github.io/fivem-lua/malossi_menu_v7.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/malossi_menu_v7.lua",
     "catagory": "Malossi"
   },
   {
     "name": "Anti Melon",
-    "link": "https://sys0xdbg.github.io/fivem-lua/anti_melon.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/anti_melon.lua",
     "catagory": "Melon"
   },
   {
     "name": "Melon",
-    "link": "https://sys0xdbg.github.io/fivem-lua/melon.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/melon.lua",
     "catagory": "Melon"
   },
   {
     "name": "Melon v2.0",
-    "link": "https://sys0xdbg.github.io/fivem-lua/melon_v2.0.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/melon_v2.0.lua",
     "catagory": "Melon"
   },
   {
     "name": "Monster Menu",
-    "link": "https://sys0xdbg.github.io/fivem-lua/monster_menu.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/monster_menu.lua",
     "catagory": "Monster"
   },
   {
     "name": "Motion",
-    "link": "https://sys0xdbg.github.io/fivem-lua/motion.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/motion.lua",
     "catagory": "Motion"
   },
   {
     "name": "Oblivius v2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/oblivius_v2.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/oblivius_v2.lua",
     "catagory": "Oblivius"
   },
   {
     "name": "Polstar",
-    "link": "https://sys0xdbg.github.io/fivem-lua/polstar.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/polstar.lua",
     "catagory": "Polstar"
   },
   {
     "name": "Polstar v2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/polstar_v2.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/polstar_v2.lua",
     "catagory": "Polstar"
   },
   {
     "name": "Proxy v2.2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/proxy_v2.2.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/proxy_v2.2.lua",
     "catagory": "Proxy"
   },
   {
     "name": "Red Menu",
-    "link": "https://sys0xdbg.github.io/fivem-lua/red_menu.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/red_menu.lua",
     "catagory": "Red Menu"
   },
   {
     "name": "Rena Alt",
-    "link": "https://sys0xdbg.github.io/fivem-lua/rena_alt.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/rena_alt.lua",
     "catagory": "Rena"
   },
   {
     "name": "Rena Menu",
-    "link": "https://sys0xdbg.github.io/fivem-lua/rena_menu.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/rena_menu.lua",
     "catagory": "Rena"
   },
   {
     "name": "Root",
-    "link": "https://sys0xdbg.github.io/fivem-lua/root.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/root.lua",
     "catagory": "Root"
   },
   {
     "name": "Root Menu",
-    "link": "https://sys0xdbg.github.io/fivem-lua/root_menu.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/root_menu.lua",
     "catagory": "Root"
   },
   {
     "name": "Root Menu Def",
-    "link": "https://sys0xdbg.github.io/fivem-lua/root_menu_def.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/root_menu_def.lua",
     "catagory": "Root"
   },
   {
     "name": "Shadowx",
-    "link": "https://sys0xdbg.github.io/fivem-lua/shadowx.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/shadowx.lua",
     "catagory": "Shadow"
   },
   {
     "name": "Skid Menu",
-    "link": "https://sys0xdbg.github.io/fivem-lua/skid_menu.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/skid_menu.lua",
     "catagory": "Skid"
   },
   {
     "name": "Skid Menu Latest",
-    "link": "https://sys0xdbg.github.io/fivem-lua/skid_menu_latest.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/skid_menu_latest.lua",
     "catagory": "Skid"
   },
   {
     "name": "Tito Modz",
-    "link": "https://sys0xdbg.github.io/fivem-lua/tito_modz.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/tito_modz.lua",
     "catagory": "TITOModz"
   },
   {
     "name": "Tito Modz v2.0",
-    "link": "https://sys0xdbg.github.io/fivem-lua/tito_modz_v2.0.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/tito_modz_v2.0.lua",
     "catagory": "TITOModz"
   },
   {
     "name": "Tito Modz v9.0",
-    "link": "https://sys0xdbg.github.io/fivem-lua/tito_modz_v9.0.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/tito_modz_v9.0.lua",
     "catagory": "TITOModz"
   },
   {
     "name": "Tiago",
-    "link": "https://sys0xdbg.github.io/fivem-lua/tiago.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/tiago.lua",
     "catagory": "Tiago"
   },
   {
     "name": "Tiago Bypass",
-    "link": "https://sys0xdbg.github.io/fivem-lua/tiago_bypass.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/tiago_bypass.lua",
     "catagory": "Tiago"
   },
   {
     "name": "Tiago Hoax",
-    "link": "https://sys0xdbg.github.io/fivem-lua/tiago_hoax.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/tiago_hoax.lua",
     "catagory": "Tiago"
   },
   {
     "name": "Tiago Lilpump",
-    "link": "https://sys0xdbg.github.io/fivem-lua/tiago_lilpump.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/tiago_lilpump.lua",
     "catagory": "Tiago"
   },
   {
     "name": "Tiago Updated",
-    "link": "https://sys0xdbg.github.io/fivem-lua/tiago_updated.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/tiago_updated.lua",
     "catagory": "Tiago"
   },
   {
     "name": "Tiago v3.6",
-    "link": "https://sys0xdbg.github.io/fivem-lua/tiago_v3.6.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/tiago_v3.6.lua",
     "catagory": "Tiago"
   },
   {
     "name": "Tiago v3.7",
-    "link": "https://sys0xdbg.github.io/fivem-lua/tiago_v3.7.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/tiago_v3.7.lua",
     "catagory": "Tiago"
   },
   {
     "name": "Tiago v4",
-    "link": "https://sys0xdbg.github.io/fivem-lua/tiago_v4.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/tiago_v4.lua",
     "catagory": "Tiago"
   },
   {
     "name": "Tiago v4.1",
-    "link": "https://sys0xdbg.github.io/fivem-lua/tiago_v4.1.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/tiago_v4.1.lua",
     "catagory": "Tiago"
   },
   {
     "name": "Tiago v4.2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/tiago_v4.2.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/tiago_v4.2.lua",
     "catagory": "Tiago"
   },
   {
     "name": "Wave Menu",
-    "link": "https://sys0xdbg.github.io/fivem-lua/wave_menu.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/wave_menu.lua",
     "catagory": "Wave"
   },
   {
     "name": "Wizard Alt",
-    "link": "https://sys0xdbg.github.io/fivem-lua/wizard_alt.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/wizard_alt.lua",
     "catagory": "Wizard"
   },
   {
     "name": "Wizard Menu",
-    "link": "https://sys0xdbg.github.io/fivem-lua/wizard_menu.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/wizard_menu.lua",
     "catagory": "Wizard"
   },
   {
     "name": "Aries",
-    "link": "https://sys0xdbg.github.io/fivem-lua/aries.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/aries.lua",
     "catagory": "Xaries"
   },
   {
     "name": "Siano Xaries",
-    "link": "https://sys0xdbg.github.io/fivem-lua/siano_xaries.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/siano_xaries.lua",
     "catagory": "Xaries"
   },
   {
     "name": "Xaries Funny Menu v3",
-    "link": "https://sys0xdbg.github.io/fivem-lua/xaries_funny_menu_v3.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/xaries_funny_menu_v3.lua",
     "catagory": "Xaries"
   },
   {
     "name": "Xaries Gang v2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/xaries_gang_v2.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/xaries_gang_v2.lua",
     "catagory": "Xaries"
   },
   {
     "name": "A",
-    "link": "https://sys0xdbg.github.io/fivem-lua/a.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/a.lua",
     "catagory": "Other"
   },
   {
     "name": "Auttaja",
-    "link": "https://sys0xdbg.github.io/fivem-lua/auttaja.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/auttaja.lua",
     "catagory": "Other"
   },
   {
     "name": "Badwolf v1",
-    "link": "https://sys0xdbg.github.io/fivem-lua/badwolf_v1.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/badwolf_v1.lua",
     "catagory": "Other"
   },
   {
     "name": "Bartow Menu",
-    "link": "https://sys0xdbg.github.io/fivem-lua/bartow_menu.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/bartow_menu.lua",
     "catagory": "Other"
   },
   {
     "name": "Bee",
-    "link": "https://sys0xdbg.github.io/fivem-lua/bee.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/bee.lua",
     "catagory": "Other"
   },
   {
     "name": "Biznes",
-    "link": "https://sys0xdbg.github.io/fivem-lua/biznes.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/biznes.lua",
     "catagory": "Other"
   },
   {
     "name": "Ciao",
-    "link": "https://sys0xdbg.github.io/fivem-lua/ciao.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/ciao.lua",
     "catagory": "Other"
   },
   {
     "name": "Cience",
-    "link": "https://sys0xdbg.github.io/fivem-lua/cience.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/cience.lua",
     "catagory": "Other"
   },
   {
     "name": "Derp",
-    "link": "https://sys0xdbg.github.io/fivem-lua/derp.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/derp.lua",
     "catagory": "Other"
   },
   {
     "name": "Dreah",
-    "link": "https://sys0xdbg.github.io/fivem-lua/dreah.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/dreah.lua",
     "catagory": "Other"
   },
   {
     "name": "Ec",
-    "link": "https://sys0xdbg.github.io/fivem-lua/ec.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/ec.lua",
     "catagory": "Other"
   },
   {
     "name": "Edvis Menu",
-    "link": "https://sys0xdbg.github.io/fivem-lua/edvis_menu.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/edvis_menu.lua",
     "catagory": "Other"
   },
   {
     "name": "Emperior v1.5",
-    "link": "https://sys0xdbg.github.io/fivem-lua/emperior_v1.5.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/emperior_v1.5.lua",
     "catagory": "Other"
   },
   {
     "name": "Extrude",
-    "link": "https://sys0xdbg.github.io/fivem-lua/extrude.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/extrude.lua",
     "catagory": "Other"
   },
   {
     "name": "Ez",
-    "link": "https://sys0xdbg.github.io/fivem-lua/ez.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/ez.lua",
     "catagory": "Other"
   },
   {
     "name": "Fendinx",
-    "link": "https://sys0xdbg.github.io/fivem-lua/fendinx.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/fendinx.lua",
     "catagory": "Other"
   },
   {
     "name": "Finn",
-    "link": "https://sys0xdbg.github.io/fivem-lua/finn.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/finn.lua",
     "catagory": "Other"
   },
   {
     "name": "Fivesense",
-    "link": "https://sys0xdbg.github.io/fivem-lua/fivesense.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/fivesense.lua",
     "catagory": "Other"
   },
   {
     "name": "Flex v1",
-    "link": "https://sys0xdbg.github.io/fivem-lua/flex_v1.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/flex_v1.lua",
     "catagory": "Other"
   },
   {
     "name": "Frosted",
-    "link": "https://sys0xdbg.github.io/fivem-lua/frosted.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/frosted.lua",
     "catagory": "Other"
   },
   {
     "name": "Fx v2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/fx_v2.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/fx_v2.lua",
     "catagory": "Other"
   },
   {
     "name": "Jd v2",
-    "link": "https://sys0xdbg.github.io/fivem-lua/jd_v2.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/jd_v2.lua",
     "catagory": "Other"
   },
   {
     "name": "Jebac Disa Menu v1",
-    "link": "https://sys0xdbg.github.io/fivem-lua/jebac_disa_menu_v1.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/jebac_disa_menu_v1.lua",
     "catagory": "Other"
   },
   {
     "name": "Koguszek",
-    "link": "https://sys0xdbg.github.io/fivem-lua/koguszek.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/koguszek.lua",
     "catagory": "Other"
   },
   {
     "name": "Kys Menu",
-    "link": "https://sys0xdbg.github.io/fivem-lua/kys_menu.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/kys_menu.lua",
     "catagory": "Other"
   },
   {
     "name": "Leaker v2.1",
-    "link": "https://sys0xdbg.github.io/fivem-lua/leaker_v2.1.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/leaker_v2.1.lua",
     "catagory": "Other"
   },
   {
     "name": "Lex",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lex.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lex.lua",
     "catagory": "Other"
   },
   {
     "name": "Lux",
-    "link": "https://sys0xdbg.github.io/fivem-lua/lux.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/lux.lua",
     "catagory": "Other"
   },
   {
     "name": "Mango Xd v1",
-    "link": "https://sys0xdbg.github.io/fivem-lua/mango_xd_v1.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/mango_xd_v1.lua",
     "catagory": "Other"
   },
   {
     "name": "Meme",
-    "link": "https://sys0xdbg.github.io/fivem-lua/meme.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/meme.lua",
     "catagory": "Other"
   },
   {
     "name": "Menus",
-    "link": "https://sys0xdbg.github.io/fivem-lua/menus.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/menus.lua",
     "catagory": "Other"
   },
   {
     "name": "Mr Menu v2.0",
-    "link": "https://sys0xdbg.github.io/fivem-lua/mr_menu_v2.0.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/mr_menu_v2.0.lua",
     "catagory": "Other"
   },
   {
     "name": "Omwj",
-    "link": "https://sys0xdbg.github.io/fivem-lua/omwj.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/omwj.lua",
     "catagory": "Other"
   },
   {
     "name": "Osquerna",
-    "link": "https://sys0xdbg.github.io/fivem-lua/osquerna.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/osquerna.lua",
     "catagory": "Other"
   },
   {
     "name": "Outcasts",
-    "link": "https://sys0xdbg.github.io/fivem-lua/outcasts.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/outcasts.lua",
     "catagory": "Other"
   },
   {
     "name": "Purple Lum",
-    "link": "https://sys0xdbg.github.io/fivem-lua/purple_lum.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/purple_lum.lua",
     "catagory": "Other"
   },
   {
     "name": "Qwe",
-    "link": "https://sys0xdbg.github.io/fivem-lua/qwe.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/qwe.lua",
     "catagory": "Other"
   },
   {
     "name": "Redstonia",
-    "link": "https://sys0xdbg.github.io/fivem-lua/redstonia.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/redstonia.lua",
     "catagory": "Other"
   },
   {
     "name": "Ruby",
-    "link": "https://sys0xdbg.github.io/fivem-lua/ruby.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/ruby.lua",
     "catagory": "Other"
   },
   {
     "name": "Sef",
-    "link": "https://sys0xdbg.github.io/fivem-lua/sef.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/sef.lua",
     "catagory": "Other"
   },
   {
     "name": "Skaza",
-    "link": "https://sys0xdbg.github.io/fivem-lua/skaza.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/skaza.lua",
     "catagory": "Other"
   },
   {
     "name": "Tumx",
-    "link": "https://sys0xdbg.github.io/fivem-lua/tumx.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/tumx.lua",
     "catagory": "Other"
   },
   {
     "name": "Uc",
-    "link": "https://sys0xdbg.github.io/fivem-lua/uc.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/uc.lua",
     "catagory": "Other"
   },
   {
     "name": "Xa",
-    "link": "https://sys0xdbg.github.io/fivem-lua/xa.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/xa.lua",
     "catagory": "Other"
   },
   {
     "name": "Xxx",
-    "link": "https://sys0xdbg.github.io/fivem-lua/xxx.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/xxx.lua",
     "catagory": "Other"
   },
   {
     "name": "v99",
-    "link": "https://sys0xdbg.github.io/fivem-lua/v99.lua",
+    "link": "https://sys0xdbg.github.io/fivem-lua/fivem/scripts/v99.lua",
     "catagory": "Other"
   }
 ]

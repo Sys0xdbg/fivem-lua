@@ -1,1 +1,0 @@
-print("jebac entaisa pozdro")

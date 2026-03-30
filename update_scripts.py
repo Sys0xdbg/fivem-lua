@@ -3,9 +3,19 @@ import json
 import re
 import hashlib
 
-SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-JSON_PATH = os.path.join(SCRIPT_DIR, "fivemLuaScripts_items.json")
+ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 BASE_URL = "https://sys0xdbg.github.io/fivem-lua/"
+
+GAMES = {
+    "fivem": {
+        "scripts_dir": os.path.join(ROOT_DIR, "fivem", "scripts"),
+        "json_path": os.path.join(ROOT_DIR, "fivemLuaScripts_items.json"),
+    },
+    "redm": {
+        "scripts_dir": os.path.join(ROOT_DIR, "redm", "scripts"),
+        "json_path": os.path.join(ROOT_DIR, "redmLuaScripts_items.json"),
+    },
+}
 
 # Category keywords - order matters, first match wins
 CATEGORIES = {
@@ -77,9 +87,7 @@ def clean_filename(filename):
     name = name.lower()
 
     # Normalize version patterns: v1, v2.0, etc.
-    # Turn patterns like "menu2.0" into "menu_v2.0"
     name = re.sub(r'([a-z])(\d+\.\d+)', r'\1_v\2', name)
-    # Turn patterns like "menu2" (but not already "v2") into "menu_v2"
     name = re.sub(r'([a-z])(\d+)$', r'\1_v\2', name)
     name = re.sub(r'([a-z])(\d+)(_)', r'\1_v\2\3', name)
 
@@ -105,9 +113,7 @@ def detect_category(filename):
 def make_display_name(filename):
     """Convert a clean filename into a readable display name."""
     name = filename.replace(".lua", "")
-    # Split on underscores
     parts = name.split("_")
-    # Capitalize each part, but keep version indicators like "v2.0" lowercase-ish
     result = []
     for part in parts:
         if re.match(r'^v\d', part):
@@ -126,12 +132,12 @@ def get_file_hash(filepath):
     return h.hexdigest()
 
 
-def find_duplicates(lua_files):
+def find_duplicates(scripts_dir, lua_files):
     """Find duplicate files by content hash. Returns set of files to remove."""
     hash_map = {}
     duplicates = set()
     for f in sorted(lua_files):
-        filepath = os.path.join(SCRIPT_DIR, f)
+        filepath = os.path.join(scripts_dir, f)
         file_hash = get_file_hash(filepath)
         if file_hash in hash_map:
             duplicates.add(f)
@@ -140,23 +146,36 @@ def find_duplicates(lua_files):
     return duplicates
 
 
-def main():
+def process_game(game_name, scripts_dir, json_path):
+    """Process a single game's scripts folder."""
+    print(f"{'=' * 50}")
+    print(f"  {game_name.upper()}")
+    print(f"{'=' * 50}")
+
+    # Ensure scripts directory exists
+    if not os.path.isdir(scripts_dir):
+        os.makedirs(scripts_dir)
+        print(f"Created {scripts_dir}")
+
     # Get all lua files
-    lua_files = [f for f in os.listdir(SCRIPT_DIR) if f.endswith(".lua")]
+    lua_files = [f for f in os.listdir(scripts_dir) if f.endswith(".lua")]
 
     if not lua_files:
-        print("No .lua files found.")
+        print(f"No .lua files found in {game_name}/scripts/\n")
+        # Write empty JSON
+        with open(json_path, "w", encoding="utf-8") as f:
+            json.dump([], f, indent=2)
         return
 
     print(f"Found {len(lua_files)} .lua files\n")
 
     # Step 1: Find and remove duplicates
-    duplicates = find_duplicates(lua_files)
+    duplicates = find_duplicates(scripts_dir, lua_files)
     if duplicates:
         print(f"Found {len(duplicates)} duplicate(s):")
         for dup in sorted(duplicates):
             print(f"  Removing: {dup}")
-            os.remove(os.path.join(SCRIPT_DIR, dup))
+            os.remove(os.path.join(scripts_dir, dup))
         lua_files = [f for f in lua_files if f not in duplicates]
         print()
 
@@ -170,9 +189,8 @@ def main():
     if renames:
         print(f"Renaming {len(renames)} file(s):")
         for old_name, new_name in sorted(renames.items()):
-            old_path = os.path.join(SCRIPT_DIR, old_name)
-            new_path = os.path.join(SCRIPT_DIR, new_name)
-            # Handle collision
+            old_path = os.path.join(scripts_dir, old_name)
+            new_path = os.path.join(scripts_dir, new_name)
             if os.path.exists(new_path) and old_name != new_name:
                 print(f"  SKIP (conflict): {old_name} -> {new_name}")
                 continue
@@ -181,15 +199,16 @@ def main():
         print()
 
     # Refresh file list after renames
-    lua_files = sorted([f for f in os.listdir(SCRIPT_DIR) if f.endswith(".lua")])
+    lua_files = sorted([f for f in os.listdir(scripts_dir) if f.endswith(".lua")])
 
     # Step 3: Build JSON
+    url_prefix = BASE_URL + game_name + "/scripts/"
     items = []
     category_counts = {}
     for filename in lua_files:
         category = detect_category(filename)
         display_name = make_display_name(filename)
-        link = BASE_URL + filename
+        link = url_prefix + filename
 
         items.append({
             "name": display_name,
@@ -202,14 +221,22 @@ def main():
     # Sort by category then name
     items.sort(key=lambda x: (x["catagory"] == "Other", x["catagory"], x["name"]))
 
-    with open(JSON_PATH, "w", encoding="utf-8") as f:
+    with open(json_path, "w", encoding="utf-8") as f:
         json.dump(items, f, indent=2, ensure_ascii=False)
 
-    print(f"Updated {JSON_PATH}")
+    print(f"Updated {os.path.basename(json_path)}")
     print(f"Total scripts: {len(items)}")
     print(f"\nCategories:")
     for cat in sorted(category_counts, key=lambda c: (c == "Other", c)):
         print(f"  {cat}: {category_counts[cat]}")
+    print()
+
+
+def main():
+    for game_name, config in GAMES.items():
+        process_game(game_name, config["scripts_dir"], config["json_path"])
+
+    print("All done!")
 
 
 if __name__ == "__main__":
